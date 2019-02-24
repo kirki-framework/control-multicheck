@@ -53,7 +53,6 @@ class MultiCheck extends Base {
 			'kirki-control-multicheck',
 			"$url/assets/scripts/control.js",
 			[
-				'kirki-script',
 				'jquery',
 				'customize-base',
 				'kirki-dynamic-control',
