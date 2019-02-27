@@ -14,3 +14,5 @@ add_action(
         class_alias( 'Kirki\Control\Multicheck', 'Kirki_Control_Multicheck' );
     }
 );
+
+class_alias( 'Kirki\Field\Multicheck', 'Kirki_Field_Multicheck' );
